@@ -1,6 +1,6 @@
 [package]
 name = "sol_readln"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 description = """
 A simple alternative to Rust's standard library's method
